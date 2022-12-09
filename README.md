@@ -1,5 +1,5 @@
 # csgo
-CSGO Settings
+CSGO Settings von einem Noob für seine Noob-Freunde
 
 1. Downloadet die autoexec.cfg und speichert sie unter folgendem Verzeichnis: C:\Program Files (x86)\Steam\userdata\XXXXXXX\730\local\cfg (XXXXXXX ist eure SteamId)
 2. In den Starteinstellungen von CS bei Steam folgendes hinzufügen: +exec autoexec.cfg
