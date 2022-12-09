@@ -18,7 +18,7 @@ Wo Starteinstellungen?
  |    SMOKE    |    FLASH    |     HE      |           |
  |-------------|-------------|-------------|   NICHTS  |
  |      4      |      5      |      6      |           |
- |  AWP        |    UMP45    |   INC/MOLLY |           |
+ |  AWP        |   DEFUSER   |   INC/MOLLY |           |
  |-------------|-------------|-------------|-----------|
  |      1      |      2      |      3      |           |
  |KEVLA/HELMET |    M4/AK47  | FAMAS/GALIL |   ENTER   |
