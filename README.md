@@ -15,13 +15,13 @@ Wo Starteinstellungen?
  |     PAD     |   Nichts    |  DEAGLE     |   NICHTS  |
  |-------------|-------------|-------------|-----------|
  |      7      |      8      |      9      |     +     |
- |    SMOKE    |    FLASH    |     HE      |           |
+ |    SMOKE    |    FLASH    |      HE     |           |
  |-------------|-------------|-------------|   NICHTS  |
  |      4      |      5      |      6      |           |
- |  AWP        |   DEFUSER   |   INC/MOLLY |           |
+ |     AWP     |   DEFUSER   |  INC/MOLLY  |           |
  |-------------|-------------|-------------|-----------|
  |      1      |      2      |      3      |           |
- |KEVLA/HELMET |    M4/AK47  | FAMAS/GALIL |   ENTER   |
+ |KEVLAR/HELMET|   M4/AK47   | FAMAS/GALIL |   ENTER   |
  |-------------|-------------|-------------|           |
  |             0             |      .      |  NICHTS   |
  |           NICHTS          |   NICHTS    |           |
