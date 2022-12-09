@@ -1,9 +1,8 @@
 # csgo
 CSGO Settings
 
-1. Geht in euer Spielverzeichnis von CS:GO (z.B. C:\Program Files (x86)\Steam\steamapps\Common\Counter-Strike Global Offensive\csgo\cfg)
-2. Kopiert hier die autoexec.cfg hin
-3. In den Starteinstellungen von CS bei Steam folgendes hinzufügen: +exec autoexec.cfg
+1. Downloadet die autoexec.cfg und speichert sie unter folgendem Verzeichnis: C:\Program Files (x86)\Steam\userdata\XXXXXXX\730\local\cfg (XXXXXXX ist eure SteamId)
+2. In den Starteinstellungen von CS bei Steam folgendes hinzufügen: +exec autoexec.cfg
 
 Wo Starteinstellungen?
 
